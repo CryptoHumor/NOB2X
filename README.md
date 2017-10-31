@@ -76,6 +76,7 @@
 - [Crypto.bg](https://crypto.bg/) - Leading bitcoin exchange broker in Bulgaria
 - Cryptobuyer - Venezeulan Bitcoin exchange
 - CryptoFacilities - Broker specializing in bitcoin derivatives
+- CryptoHumor - Cryptocurrency entertainment
 - [Cryptomover](https://medium.com/cryptomover/its-the-forking-bitcoin-index-ad1e4f5dbfd0) - Cryptocurrency Index
 - [Cryptopay](https://cryptopay.me/) - Bitcoin Wallet & Debit Card.
 - Cubits - European Bitcoin broker
